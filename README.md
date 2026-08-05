@@ -30,7 +30,7 @@ The database contains five different tables:
 
 - **Solo ($6.99):** Solo users show substantially higher and more consistent churn in their first two months than Premium users, with 2025 cohort churn typically in the 10–14% range for Solo, compared to a much more variable 3–13% for Premium. This early drop-off suggests Solo users are more likely to be evaluating the platform on a trial basis, quick to leave if it doesn't immediately meet their expectations, rather than staying long enough to build the loyalty seen in higher tiers.
 
-- **Student ($3.99):** Has one of the lowest churn rates of all plans since 2024 at 39.3% which is on par with Premium's 39.6% and far below Solo's 56.3%, while also posting the largest growth in active users since 2024 with a 71% increase compared to 15% for all other plans. This likely reflects the platform's shift toward mainstream content resonating with a broader, younger audience.
+- **Student ($3.99):** Has the lowest churn rate of all plans since 2024 at 39.3% which is on par with Premium's 39.6% and far below Solo's 56.3%, while also posting the largest growth in active users since 2024 with a 71% increase compared to 15% for all other plans. This likely reflects the platform's shift toward mainstream content resonating with a broader, younger audience.
 
 ## 3. Cancellation Reasons
 
