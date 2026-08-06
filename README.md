@@ -21,9 +21,27 @@ The database contains five different tables:
 ![ERD](images/Wavelength_ERD.png)
 
 ## 1. What Happened: Two Key Events
-- **July 2022 — Competitor launch.** A new, well-funded competitor entered the streaming market in July 2022, and churn rose sharply across all plans in the following two months, concentrated among Solo and Student tier users. Recovery began within two quarters as the initial novelty of the competitor's launch wore off.
 
-- **January 2024 — A push towards mainstream content.** This is the more concerning shock. As part of a deliberate strategy to broaden the platform's appeal beyond its early niche/indie base, WaveLength updated its recommendation algorithm to surface more mainstream, major-label content over independent creators, reinforced by a broader marketing push emphasizing mainstream music. Unlike the competitor launch in 2022, it didn't produce a one-quarter spike in churn, but rather a steady increase over the two past years. Top indie consumers on the platform (users with >75% of their content consumption being indie) now churn roughly 2x more than mainstream-leaning users, and that gap continues to widen. This suggests that the mainstream push came at a real cost of damaging the platform's core differentiator in promoting independent creators, rather than simply broadening its content to appeal to more users.
+- **July 2022 — Competitor launch.** A new, well-funded competitor entered the streaming market in July 2022, and churn rose sharply across all plans in the following two months, concentrated among Solo and Student tier users, peaking at **8.1% in September 2022** (up from a 4.1% average from January 2021 – June 2022). Recovery began within two quarters as the initial novelty of the competitor's launch wore off, with churn lowering to **4.5% by November 2022**.
+<p align="center">
+  <img src="images/competitor_launch_churn_graph.png" width="600">
+  <br>
+  <em>Churn spike in Q3 2022, but quickly recovered.</em>
+</p>
+
+- **January 2024 — A push towards mainstream content.** This is the more concerning shock. As part of a deliberate strategy to broaden the platform's appeal beyond its early niche/indie base, WaveLength updated its recommendation algorithm to surface more mainstream, major-label content over independent creators, reinforced by a broader marketing push emphasizing mainstream music. Unlike the competitor launch in 2022, it didn't produce a one-quarter spike in churn, but rather a steady increase over the two past years with quarterly churn rates climbing from **9.0% in Q4 2023 to 13.9% by Q4 2025**. Top indie consumers on the platform (users with >75% of their content consumption being indie) now churn **roughly 1.5x more** than low indie listeners. This suggests that the mainstream push came at a real cost of damaging the platform's core differentiator in promoting independent creators, rather than simply broadening its content to appeal to more users.
+<table align="center">
+  <tr>
+    <td align="center" width="450">
+      <img src="images/mainstream_push_churn_graph.png" width="600"><br>
+      <em>Quarterly churn rate has gradually increased since the 2024 mainstream push.</em>
+    </td>
+    <td align="center" width="450">
+      <img src="images/indie_churn_rate_graph.png" width="380"><br>
+      <em>Top indie listeners went from having the lowest churn rates in 2023 to the highest churn rates in 2024 and 2025.</em>
+    </td>
+  </tr>
+</table>
 
 ## 2. Plan Level Churn
 - **Premium ($11.99):** Premium users have the longest average tenure, averaging 12.2 months longer than the average Solo user in 2025, reflecting the greatest brand loyalty. They also make up the largest share of top indie listeners, making up 60% of this group in 2025, showing that this segment resonates most strongly with the platform's core identity. This is a major concern, as the company is losing its most loyal and highest paying customer segment following the mainstream content push.
