@@ -44,11 +44,28 @@ The database contains five different tables:
 </table>
 
 ## 2. Plan Level Churn
-- **Premium ($11.99):** Premium users have the longest average tenure, averaging 12.2 months longer than the average Solo user in 2025, reflecting the greatest brand loyalty. They also make up the largest share of top indie listeners, making up 60% of this group in 2025, showing that this segment resonates most strongly with the platform's core identity. This is a major concern, as the company is losing its most loyal and highest paying customer segment following the mainstream content push.
+- **Premium ($11.99):** Premium users have the longest average tenure, averaging **12.2 months longer** than the average Solo user in 2025, reflecting the greatest brand loyalty. They also make up the largest share of top indie listeners, making up **60% of this group** in 2025, showing that this segment resonates most strongly with the platform's core identity. This is a major concern, as the company is losing its most loyal and highest paying customer segment following the mainstream content push.
 
-- **Solo ($6.99):** Solo users show substantially higher and more consistent churn in their first two months than Premium users, with 2025 cohort churn typically in the 10–14% range for Solo, compared to a much more variable 3–13% for Premium. This early drop-off suggests Solo users are more likely to be evaluating the platform on a trial basis, quick to leave if it doesn't immediately meet their expectations, rather than staying long enough to build the loyalty seen in higher tiers.
+- **Solo ($6.99):** Solo users show substantially higher and more consistent churn in their first two months than Premium users, with 2025 cohort churn typically in the **10–14% range** for Solo, compared to a much more variable **3–13%** for Premium. This early drop-off suggests Solo users are more likely to be evaluating the platform on a trial basis, quick to leave if it doesn't immediately meet their expectations, rather than staying long enough to build the loyalty seen in higher tiers.
+<table align="center">
+  <tr>
+    <td align="center" width="600">
+      <img src="images/solo_user_cohort_churn_2025.png" width="580"><br>
+      <em>2025 Solo plan cohort chart</em>
+    </td>
+    <td align="center" width="600">
+      <img src="images/premium_user_cohort_churn_2025.png" width="580"><br>
+      <em>2025 Premium plan cohort chart</em>
+    </td>
+  </tr>
+</table>
 
-- **Student ($3.99):** Has the lowest churn rate of all plans since 2024 at 39.3% which is on par with Premium's 39.6% and far below Solo's 56.3%, while also posting the largest growth in active users since 2024 with a 71% increase compared to 15% for all other plans. This likely reflects the platform's shift toward mainstream content resonating with a broader, younger audience.
+- **Student ($3.99):** Has the lowest total churn rate of all plans since 2024 at **39.3%**, which is on par with Premium's **39.6%** and far below Solo's **56.3%**, while also posting the largest growth in active users since 2024 with a **71% increase** compared to **15%** for all other plans. This likely reflects the platform's shift toward mainstream content resonating with a broader, younger audience.
+  <p align="center">
+  <img src="images/churn_rate_by_plan_2024:2025.png" width="250">
+  <br>
+  <em>Total churn rate for each plan from 2024 to 2025</em>
+</p>
 
 ## 3. Cancellation Reasons
 
