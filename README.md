@@ -20,6 +20,17 @@ The database contains five different tables:
 
 ![ERD](images/Wavelength_ERD.png)
 
+## Executive Summary
+- There have been two noticeable churn events since WaveLength's launch: the **competitor launch in 2022** and the **shift to mainstream content and branding in 2024**. WaveLength appears to have fully recovered from the 2022 instance, but churn has continued to gradually increase since the 2024 shift.
+
+- **Top indie listeners** now consistently have the highest churn rate after consistently having the lowest churn rate pre-2024, currently churning roughly **1.5x more** than low indie listeners. This reversal raises a concern that the brand WaveLength built for itself is eroding as it tries to reach more customer segments.
+
+- **Premium** listeners show the highest loyalty with average tenures **12.2 months** higher than that of Solo users. They also make up the majority of top indie listeners (**60%**) which further heighten concerns about customer loss due to WaveLength's mainstream shift.
+
+- In contrast, the **Student** plan has thrived under the mainstream shift, growing **71%** since 2024 with the lowest churn of any tier, while **Solo** remains the least sticky, having the highest churn in months one and two (**10–14%**) and citing "found alternative" **10% more often** than other plans.
+  
+- WaveLength should reaffirm its indie identity for top indie/Premium listeners, keep leaning into mainstream content for Student, and use a discounted Premium trial to make Solo subscribers stickier.
+
 ## 1. What Happened: Two Key Events
 
 - **July 2022 — Competitor launch.** A new, well-funded competitor entered the streaming market in July 2022, and churn rose sharply across all plans in the following two months, concentrated among Solo and Student tier users, peaking at **8.1% in September 2022** (up from a 4.1% average from January 2021 – June 2022). Recovery began within two quarters as the initial novelty of the competitor's launch wore off, with churn lowering to **4.5% by November 2022**.
@@ -70,7 +81,7 @@ The database contains five different tables:
 ## 3. Cancellation Reasons
 
 - **"No longer use"** is the top cancellation reason across all plan types in 2025, accounting for **26.0%** of all cancellations. This indicates much of the churn reflects disengagement with the platform rather than dissatisfaction.
--  **"Too expensive"** and **"found alternative"** follow closely at **24.6%** and **22.2%**. Price sensitivity is consistent across all plans, while "found alternative" skews moderately more common among Solo subscribers, reinforcing the noncommittal and trial-oriented churn pattern seen in Section 2.
+- **"Too expensive"** and **"found alternative"** follow closely at **24.6%** and **22.2%**. Price sensitivity is consistent across all plans, while Solo users have listed "found alternative" as their cancellation reason roughly **10% more often** than other plans since 2019, reinforcing the noncommittal and trial-oriented churn pattern seen in Section 2.
 - **"Missing content"** accounts for **19.7%** of cancellations platform-wide from 2024 to 2025, but climbs to **26.3%** in the same period when filtered to only include top indie listeners, further indicating that this segment's churn is driven largely by the brand's 2024 transition from indie to mainstream content.
 - The remaining reasons, including **"hard to use" (6%)** and **"not what I expected" (3%)**, stay relatively flat across plans and time periods, suggesting they aren't meaningfully tied to any events or churn patterns.
 
