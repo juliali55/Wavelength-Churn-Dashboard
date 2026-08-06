@@ -29,7 +29,7 @@ The database contains five different tables:
 
 - In contrast, the **Student** plan has thrived under the mainstream shift, growing **71%** since 2024 with the lowest churn of any tier, while **Solo** remains the least sticky, having the highest churn in months one and two (**10–14%**) and citing "found alternative" **10% more often** than other plans.
   
-- WaveLength should reaffirm its indie identity for top indie/Premium listeners, keep leaning into mainstream content for Student, and use a discounted Premium trial to make Solo subscribers stickier.
+- To address these trends, WaveLength should reaffirm its indie identity for top indie/Premium listeners, keep leaning into mainstream content for Student, and use a discounted Premium trial to make Solo subscribers stickier.
 
 ## 1. What Happened: Two Key Events
 
