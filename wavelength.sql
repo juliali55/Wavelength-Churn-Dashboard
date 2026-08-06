@@ -24,7 +24,7 @@ SELECT
 FROM subscriptions
 
 
--- users table with the indie indie tier each user is in and their lifetime revenue
+-- users table with the indie tier each user is in and their lifetime revenue
 WITH date_scaffold AS (
     SELECT generate_series(
         '2019-01-01'::date,
