@@ -62,7 +62,7 @@ The database contains five different tables:
 
 - **Student ($3.99):** Has the lowest total churn rate of all plans since 2024 at **39.3%**, which is on par with Premium's **39.6%** and far below Solo's **56.3%**, while also posting the largest growth in active users since 2024 with a **71% increase** compared to **15%** for all other plans. This likely reflects the platform's shift toward mainstream content resonating with a broader, younger audience.
   <p align="center">
-  <img src="images/churn_rate_by_plan_2024:2025.png" width="250">
+  <img src="images/churn_rate_by_plan_2024_2025.png" width="250">
   <br>
   <em>Total churn rate for each plan from 2024 to 2025</em>
 </p>
